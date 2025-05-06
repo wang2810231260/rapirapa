@@ -1,0 +1,6 @@
+android:
+  device_name: "10AE9E218Q002HH"
+  app_package: "com.rapirapa.app.android"
+  app_activity: "com.app.code.MainActivity"
+  new_command_timeout: 6000
+  no_reset: true

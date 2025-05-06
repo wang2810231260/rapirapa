@@ -1,0 +1,4 @@
+2025-04-10 02:45:40 - CRITICAL [driver_manager.py:23] 驱动初始化失败: [Errno 2] No such file or directory: '../config/devices.yaml'
+2025-04-10 02:47:34 - CRITICAL [driver_manager.py:23] 驱动初始化失败: [Errno 2] No such file or directory: '../config/devices.yaml'
+2025-04-10 02:50:04 - DEBUG    [driver_manager.py:16] 正在初始化Appium驱动...
+2025-04-10 02:50:11 - INFO     [driver_manager.py:26] Appium驱动初始化成功，设备: 10AE9E218Q002HH
